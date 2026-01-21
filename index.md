@@ -25,7 +25,7 @@ MatrixEngine は、HMI（Human Machine Interface）開発を支援するツー�
 - [GUI Object 概要](ja/guides/matrixengine-gui-object-overview.pdf)  
   （GUI Object の基本的な考え方と役割）
 
-- [GUI Object 種類一覧（Overview）](ja/guides/gui-_object-overview.md)  
+- [GUI Object 種類一覧（Overview）](ja/guides/gui-object-overview.md)  
   （MatrixEngine に用意されている GUI Object の種類と概要）
 
 - [デザイナーとエンジニアの役割とワークフロー](ja/guides/matrixengine-workflow-and-roles.pdf)  
