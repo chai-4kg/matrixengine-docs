@@ -23,7 +23,10 @@ MatrixEngine は、HMI（Human Machine Interface）開発を支援するツー�
 ## MatrixEngineの考え方・設計思想を知る
 
 - [GUI Object 概要](ja/guides/matrixengine-gui-object-overview.pdf)  
-  （画面を構成する基本単位についての説明）
+  （GUI Object の基本的な考え方と役割）
+
+- [GUI Object 種類一覧（Overview）](ja/guides/gui-_object-overview.md)  
+  （MatrixEngine に用意されている GUI Object の種類と概要）
 
 - [デザイナーとエンジニアの役割とワークフロー](ja/guides/matrixengine-workflow-and-roles.pdf)  
   （開発時の役割分担と進め方）
@@ -76,4 +79,5 @@ MatrixEngine では、GUI Object 単位で画面を構成します。
 MatrixEngine の公式マニュアルに基づいて整理されています。
 
 製品理解の入口としてご活用ください。
+
 
